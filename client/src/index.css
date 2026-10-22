@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: linear-gradient(135deg, #06111f, #0d1f2f, #10293d);
+  background: linear-gradient(135deg, #120f1d, #1d1730, #2d2443);
   color: #f5f7fb;
 }
 
@@ -31,7 +31,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgba(6, 17, 31, 0.88);
+  background: rgba(18, 15, 29, 0.82);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
@@ -69,8 +69,8 @@ a {
   gap: 60px;
   flex-wrap: wrap;
   background:
-    radial-gradient(circle at top left, rgba(255, 184, 107, 0.12), transparent 30%),
-    radial-gradient(circle at bottom right, rgba(94, 177, 255, 0.12), transparent 28%);
+    radial-gradient(circle at top left, rgba(167, 120, 255, 0.15), transparent 30%),
+    radial-gradient(circle at bottom right, rgba(45, 198, 198, 0.15), transparent 28%);
 }
 
 .hero-text {

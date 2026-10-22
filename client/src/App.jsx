@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <header className="navbar">
-        <div className="logo">Renz Quelli</div>
+        <div className="logo">Renz Quelli Portfolio</div>
 
         <nav className="nav-links">
           <a href="#home">Home</a>
@@ -23,7 +23,7 @@ function App() {
           <p className="tag">Frontend Developer • Student</p>
 
           <h1>
-            Hi, I’m <span>Renz</span>
+            Hi, I’m <span>Renz Quelli A. Gadores</span>
           </h1>
 
           <p className="hero-description">
@@ -84,6 +84,7 @@ function App() {
           <div className="card">React</div>
           <div className="card">Responsive Design</div>
           <div className="card">UI Design</div>
+          <div className="card">Python</div>
         </div>
       </section>
 
